@@ -1,2 +1,7 @@
 # HR-Analytics-Dashboard
-Interactive HR Analytics Dashboard built using Microsoft Excel
+
+## Dashboard Screenshot
+![Dashboard] (Screenshot-Dashboard.png)
+
+
+
